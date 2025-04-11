@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+plotly
+statsmodels
+scikit-learn
+openpyxl
+pymannkendall
+tqdm
