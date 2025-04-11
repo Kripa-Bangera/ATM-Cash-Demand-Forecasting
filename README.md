@@ -6,6 +6,12 @@ This project focuses on forecasting ATM cash demand using real-world data from t
 3.Dynamic Harmonic Regression (DHR)
 #### The DHR model demonstrated the best performance in terms of RMSE.
 
+## 📄Dataset
+The dataset used in this project was sourced from the Reserve Bank of India (RBI)'s official website.
+
+[Click here to access the dataset] (https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=49901)
+
+
 ### 📊 Objective
 Efficiently forecasting ATM cash withdrawals is crucial for optimal currency logistics.  
 This project aims to:  
@@ -29,8 +35,8 @@ This project aims to:
 ### 📈 Model Comparison
 Model	RMSE:-
 - Exponential Smoothing - 791.35
-- SARIMA	- 610.92
-- DHR- 510.73
+- SARIMA	- 446.21
+- DHR- 402.22
 ✅ DHR outperformed the other models.
 
 ### 🛠 Tools Used
