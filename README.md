@@ -1,9 +1,9 @@
 # **🏧 ATM Cash Demand Forecasting**
 
 This project focuses on forecasting ATM cash demand using real-world data from the Reserve Bank of India (RBI). We developed and compared three time series models to accurately predict future cash requirements:
-1.Exponential Smoothing
-2.SARIMA (Seasonal ARIMA)
-3.Dynamic Harmonic Regression (DHR)
+1. Exponential Smoothing
+2. SARIMA (Seasonal ARIMA)
+3. Dynamic Harmonic Regression (DHR)
 #### The DHR model demonstrated the best performance in terms of RMSE.
 
 ## 📄Dataset
