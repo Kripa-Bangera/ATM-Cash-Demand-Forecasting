@@ -39,6 +39,12 @@ Model	RMSE:-
 - DHR- 402.22
 ✅ DHR outperformed the other models.
 
+### 📈 Best Model Forecast
+
+**SARIMAX forecasting**
+
+![SARIMAX Forecast Plot](DHR_Forecast.png)
+
 ### 🛠 Tools Used
 - Python (Jupyter Notebook)
 - pandas, numpy, matplotlib, seaborn
