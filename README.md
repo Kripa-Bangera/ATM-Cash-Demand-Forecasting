@@ -41,7 +41,7 @@ Model	RMSE:-
 
 ### 📈 Best Model Forecast
 
-**SARIMAX forecasting**
+**DHR forecasting**
 
 ![SARIMAX Forecast Plot](DHR_Forecast.png)
 
